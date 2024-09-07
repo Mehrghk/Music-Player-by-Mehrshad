@@ -12,7 +12,7 @@ const cover = document.getElementById('cover');
 const timeend = document.getElementById('timeend');
 
 // Song titles
-const songs = ['Lost in City Lights', 'Forest Lullaby'];
+const songs = ['lost in city lights', 'forest lullaby'];
 const authors = ['Cosmo Sheldrake', 'Lesfm'];
 const times = ['01:12', '02:18'];
  
